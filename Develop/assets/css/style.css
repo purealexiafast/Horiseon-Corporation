@@ -121,7 +121,7 @@ footer {
     margin-left: 25px;
 }
 
-/*Changed all these from class to id because it is only selected once. Also consolidated so there was no dupliactes.*/
+/*Changed all these from class to id because it is only selected once in the HTML. Also consolidated so there was no duplicates.*/
 
 #seo{
     display: inline-block;
