@@ -23,7 +23,7 @@ The end result of my work was a functional website that looked identical to the 
 View the screenshot below.
 
 ```md
-![Horiseon Corporation Webpage](Develop/assets/images/horiseon-corporation.jpeg)
+![Horiseon Corporation Webpage](Develop/images/horiseon-corporation.jpeg)
 ```
 
 Our licensing is MIT. This ensures that users can re-use the code if desired. They can also make thier own changes or modifications.
