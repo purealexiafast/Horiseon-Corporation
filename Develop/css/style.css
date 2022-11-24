@@ -22,7 +22,7 @@ header {
 
 /*Changed unordered list to a nav. Now it's a semantic element and this is the appropriate tag for this kind of situation*/
 
-nav, a{
+nav, a, ul, li{
     list-style-type: none;
     display: inline-block;
     margin-left: 15px;
